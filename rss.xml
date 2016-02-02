@@ -2,10 +2,20 @@
     <channel>
         <title><![CDATA[PowerSophia]]></title>
         <description><![CDATA[PowerSophia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/powersophia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 11:48:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 11:56:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/powersophia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>People demand freedom of speech as a compensation for the freedom of thought which they seldom use.   — 
+Søren Kierkegaard
+
+</p>]]></description>
+            <link>https://thegrid.ai/powersophia/4792823b-659e-450f-9c6d-4af49cc4c7b3/index.html</link>
+            <guid isPermaLink="false">4792823b-659e-450f-9c6d-4af49cc4c7b3</guid>
+            <pubDate>Tue, 02 Feb 2016 11:56:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“In science, convictions have no rights of citizenship, as is said 
 with good reason. Only when they decide to descend to the modesty of a 
@@ -23,7 +33,7 @@ within the realm of knowledge—though always with the restriction that
 they remain under police supervision, under the police of mistrust. But 
 does this not mean, more precisely considered, that a conviction may 
 obtain admission to science only when it ceases to be a conviction?” </h1><h2>— Friedrich Nietzsche, The Gay Science</h2></article>]]></description>
-            <link>undefined8a13f689-9ab8-4daa-9e00-cd20dd1006d0/index.html</link>
+            <link>https://thegrid.ai/powersophia/8a13f689-9ab8-4daa-9e00-cd20dd1006d0/index.html</link>
             <guid isPermaLink="false">8a13f689-9ab8-4daa-9e00-cd20dd1006d0</guid>
             <pubDate>Tue, 02 Feb 2016 11:47:07 GMT</pubDate>
         </item>
