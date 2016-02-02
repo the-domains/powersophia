@@ -1,0 +1,28 @@
+name: PowerSophia
+favicon: null
+layout_spectrum: 0.8385635141748935
+typography_spectrum: 0.2750139660201967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.47611289424821734
+  lightness: 0.9385252345819026
+  saturation: 0.7514349413104355
+  rhythmicContrast: 0.2211222075857222
+purpose: []
