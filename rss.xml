@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PowerSophia]]></title>
+        <description><![CDATA[PowerSophia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 11:48:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“In science, convictions have no rights of citizenship, as is said 
+with good reason. Only when they decide to descend to the modesty of a 
+hypothesis, of a provisional experimental point of view, of a regulative
+ fiction, maybe they be granted admission and even a certain value 
+within the realm of knowledge—though always with the restriction that 
+they remain under police supervision, under the police of mistrust. But 
+does this not mean, more precisely considered, that a conviction may 
+obtain admission to science only when it ceases to be a conviction?” ]]></title>
+            <description><![CDATA[<article><h1>“In science, convictions have no rights of citizenship, as is said 
+with good reason. Only when they decide to descend to the modesty of a 
+hypothesis, of a provisional experimental point of view, of a regulative
+ fiction, maybe they be granted admission and even a certain value 
+within the realm of knowledge—though always with the restriction that 
+they remain under police supervision, under the police of mistrust. But 
+does this not mean, more precisely considered, that a conviction may 
+obtain admission to science only when it ceases to be a conviction?” </h1><h2>— Friedrich Nietzsche, The Gay Science</h2></article>]]></description>
+            <link>undefined8a13f689-9ab8-4daa-9e00-cd20dd1006d0/index.html</link>
+            <guid isPermaLink="false">8a13f689-9ab8-4daa-9e00-cd20dd1006d0</guid>
+            <pubDate>Tue, 02 Feb 2016 11:47:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
